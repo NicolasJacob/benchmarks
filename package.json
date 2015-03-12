@@ -1,0 +1,11 @@
+{
+  "name": "benchmark",
+  "version": "0.1.0",
+  "description": "benchmark",
+  "main": "bin/server.js",
+  "dependencies": {
+    "express": "^4.12.2",
+    "mongo": "^0.1.0",
+    "mongodb": "^1.4.34"
+  }
+}

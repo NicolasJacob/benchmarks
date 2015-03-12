@@ -1,0 +1,636 @@
+{
+  "fathers" : [
+    {
+      "id" : 0,
+      "married" : true,
+      "name" : "William Gonzalez",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 24,
+          "name" : "Helen"
+          },
+        {
+          "age" : 26,
+          "name" : "Karen"
+          },
+        {
+          "age" : 29,
+          "name" : "Anna"
+          }
+        ]
+      },
+    {
+      "id" : 1,
+      "married" : false,
+      "name" : "Joseph Hernandez",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 16,
+          "name" : "Ruth"
+          }
+        ]
+      },
+    {
+      "id" : 2,
+      "married" : true,
+      "name" : "Kenneth Garcia",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 26,
+          "name" : "Barbara"
+          }
+        ]
+      },
+    {
+      "id" : 3,
+      "married" : false,
+      "name" : "Mark White",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 28,
+          "name" : "Maria"
+          },
+        {
+          "age" : 21,
+          "name" : "Brenda"
+          }
+        ]
+      },
+    {
+      "id" : 4,
+      "married" : false,
+      "name" : "Christopher Hernandez",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 24,
+          "name" : "Patricia"
+          }
+        ]
+      },
+    {
+      "id" : 5,
+      "married" : false,
+      "name" : "Mark Williams",
+      "sons" : null,
+      "daughters" : [
+        ]
+      },
+    {
+      "id" : 6,
+      "married" : true,
+      "name" : "Michael Walker",
+      "sons" : null,
+      "daughters" : [
+        ]
+      },
+    {
+      "id" : 7,
+      "married" : true,
+      "name" : "William Johnson",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 3,
+          "name" : "Lisa"
+          },
+        {
+          "age" : 19,
+          "name" : "Sandra"
+          }
+        ]
+      },
+    {
+      "id" : 8,
+      "married" : true,
+      "name" : "Steven Williams",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 3,
+          "name" : "Karen"
+          }
+        ]
+      },
+    {
+      "id" : 9,
+      "married" : true,
+      "name" : "Larry Robinson",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 25,
+          "name" : "Deborah"
+          },
+        {
+          "age" : 1,
+          "name" : "Ruth"
+          },
+        {
+          "age" : 21,
+          "name" : "Kimberly"
+          }
+        ]
+      },
+    {
+      "id" : 10,
+      "married" : false,
+      "name" : "Donald Rodriguez",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 3,
+          "name" : "Donna"
+          },
+        {
+          "age" : 1,
+          "name" : "Ruth"
+          },
+        {
+          "age" : 30,
+          "name" : "Carol"
+          }
+        ]
+      },
+    {
+      "id" : 11,
+      "married" : true,
+      "name" : "William Jackson",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 10,
+          "name" : "Cynthia"
+          }
+        ]
+      },
+    {
+      "id" : 12,
+      "married" : true,
+      "name" : "Christopher Lopez",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 25,
+          "name" : "Donna"
+          },
+        {
+          "age" : 23,
+          "name" : "Donna"
+          }
+        ]
+      },
+    {
+      "id" : 13,
+      "married" : false,
+      "name" : "Ronald Williams",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 23,
+          "name" : "Amy"
+          }
+        ]
+      },
+    {
+      "id" : 14,
+      "married" : false,
+      "name" : "Eric Martinez",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 13,
+          "name" : "Melissa"
+          }
+        ]
+      },
+    {
+      "id" : 15,
+      "married" : false,
+      "name" : "John Moore",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 9,
+          "name" : "Patricia"
+          },
+        {
+          "age" : 1,
+          "name" : "Mary"
+          },
+        {
+          "age" : 30,
+          "name" : "Anna"
+          }
+        ]
+      },
+    {
+      "id" : 16,
+      "married" : false,
+      "name" : "James Lopez",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 21,
+          "name" : "Cynthia"
+          },
+        {
+          "age" : 23,
+          "name" : "Laura"
+          },
+        {
+          "age" : 14,
+          "name" : "Susan"
+          }
+        ]
+      },
+    {
+      "id" : 17,
+      "married" : true,
+      "name" : "Jose Taylor",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 5,
+          "name" : "Jennifer"
+          }
+        ]
+      },
+    {
+      "id" : 18,
+      "married" : true,
+      "name" : "Paul Robinson",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 30,
+          "name" : "Margaret"
+          },
+        {
+          "age" : 7,
+          "name" : "Angela"
+          }
+        ]
+      },
+    {
+      "id" : 19,
+      "married" : false,
+      "name" : "Ronald Moore",
+      "sons" : null,
+      "daughters" : [
+        ]
+      },
+    {
+      "id" : 20,
+      "married" : false,
+      "name" : "James Martin",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 26,
+          "name" : "Dorothy"
+          }
+        ]
+      },
+    {
+      "id" : 21,
+      "married" : true,
+      "name" : "Timothy Walker",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 18,
+          "name" : "Mary"
+          },
+        {
+          "age" : 5,
+          "name" : "Donna"
+          }
+        ]
+      },
+    {
+      "id" : 22,
+      "married" : true,
+      "name" : "Steven Wilson",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 30,
+          "name" : "Sarah"
+          },
+        {
+          "age" : 9,
+          "name" : "Sharon"
+          }
+        ]
+      },
+    {
+      "id" : 23,
+      "married" : true,
+      "name" : "Jeffrey Martinez",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 12,
+          "name" : "Ruth"
+          }
+        ]
+      },
+    {
+      "id" : 24,
+      "married" : false,
+      "name" : "Ronald Walker",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 23,
+          "name" : "Karen"
+          },
+        {
+          "age" : 18,
+          "name" : "Mary"
+          }
+        ]
+      },
+    {
+      "id" : 25,
+      "married" : false,
+      "name" : "Matthew Jones",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 15,
+          "name" : "Elizabeth"
+          },
+        {
+          "age" : 7,
+          "name" : "Laura"
+          }
+        ]
+      },
+    {
+      "id" : 26,
+      "married" : true,
+      "name" : "George Jackson",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 7,
+          "name" : "Deborah"
+          },
+        {
+          "age" : 0,
+          "name" : "Mary"
+          }
+        ]
+      },
+    {
+      "id" : 27,
+      "married" : true,
+      "name" : "Jeffrey Brown",
+      "sons" : null,
+      "daughters" : [
+        ]
+      },
+    {
+      "id" : 28,
+      "married" : true,
+      "name" : "Steven Anderson",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 6,
+          "name" : "Carol"
+          },
+        {
+          "age" : 4,
+          "name" : "Shirley"
+          }
+        ]
+      },
+    {
+      "id" : 29,
+      "married" : true,
+      "name" : "Frank Miller",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 7,
+          "name" : "Shirley"
+          },
+        {
+          "age" : 4,
+          "name" : "Cynthia"
+          }
+        ]
+      },
+    {
+      "id" : 30,
+      "married" : true,
+      "name" : "Steven Martinez",
+      "sons" : null,
+      "daughters" : [
+        ]
+      },
+    {
+      "id" : 31,
+      "married" : true,
+      "name" : "Ronald Hall",
+      "sons" : null,
+      "daughters" : [
+        ]
+      },
+    {
+      "id" : 32,
+      "married" : true,
+      "name" : "Paul Davis",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 4,
+          "name" : "Maria"
+          }
+        ]
+      },
+    {
+      "id" : 33,
+      "married" : false,
+      "name" : "Michael Harris",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 28,
+          "name" : "Jennifer"
+          }
+        ]
+      },
+    {
+      "id" : 34,
+      "married" : false,
+      "name" : "Thomas Harris",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 6,
+          "name" : "Kimberly"
+          }
+        ]
+      },
+    {
+      "id" : 35,
+      "married" : true,
+      "name" : "Timothy Lopez",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 20,
+          "name" : "Helen"
+          },
+        {
+          "age" : 25,
+          "name" : "Carol"
+          },
+        {
+          "age" : 25,
+          "name" : "Nancy"
+          }
+        ]
+      },
+    {
+      "id" : 36,
+      "married" : false,
+      "name" : "Jose Lee",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 28,
+          "name" : "Deborah"
+          }
+        ]
+      },
+    {
+      "id" : 37,
+      "married" : true,
+      "name" : "Eric Thompson",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 24,
+          "name" : "Shirley"
+          }
+        ]
+      },
+    {
+      "id" : 38,
+      "married" : false,
+      "name" : "Richard Perez",
+      "sons" : null,
+      "daughters" : [
+        ]
+      },
+    {
+      "id" : 39,
+      "married" : true,
+      "name" : "Anthony Lopez",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 18,
+          "name" : "Kimberly"
+          }
+        ]
+      },
+    {
+      "id" : 40,
+      "married" : false,
+      "name" : "Richard Young",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 2,
+          "name" : "Carol"
+          },
+        {
+          "age" : 24,
+          "name" : "Carol"
+          },
+        {
+          "age" : 6,
+          "name" : "Carol"
+          }
+        ]
+      },
+    {
+      "id" : 41,
+      "married" : true,
+      "name" : "Jason Williams",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 6,
+          "name" : "Jessica"
+          },
+        {
+          "age" : 1,
+          "name" : "Dorothy"
+          },
+        {
+          "age" : 8,
+          "name" : "Cynthia"
+          }
+        ]
+      },
+    {
+      "id" : 42,
+      "married" : false,
+      "name" : "Paul Gonzalez",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 17,
+          "name" : "Lisa"
+          },
+        {
+          "age" : 23,
+          "name" : "Lisa"
+          },
+        {
+          "age" : 7,
+          "name" : "Michelle"
+          }
+        ]
+      },
+    {
+      "id" : 43,
+      "married" : false,
+      "name" : "Scott Brown",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 19,
+          "name" : "Amy"
+          }
+        ]
+      },
+    {
+      "id" : 44,
+      "married" : false,
+      "name" : "Thomas White",
+      "sons" : null,
+      "daughters" : [
+        {
+          "age" : 24,
+          "name" : "Anna"
+          },
+        {
+          "age" : 6,
+          "name" : "Melissa"
+          }
+        ]
+      }
+    ]
+  }
