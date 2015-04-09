@@ -3,6 +3,7 @@
 
 import 'dart:io';
 import 'dart:convert';
+import 'dart:math' as math;
 import 'package:args/args.dart';
 import 'package:shelf/shelf.dart' as shelf;
 import 'package:shelf/shelf_io.dart' as io;
@@ -51,14 +52,38 @@ main(List<String> args) async {
      };
    }
 
+  var random = new math.Random();
+  var bigList = new List.generate(10000, (int) => random.nextInt(100));
+  bigList[5000] = 101;
+
+  var calc = [ {
+    'name': 'find Big list',
+    'func': (shelf.Request request) async {
+        var res = bigList.firstWhere( (x) => x == 101);
+        return new shelf.Response.ok(JSON.encode(res));
+      }
+    },
+    {
+    'name': 'create and send big list',
+    'func': (shelf.Request request) async {
+        return new shelf.Response.ok(JSON.encode(new List.generate(10000, (int) => random.nextInt(100))));
+      }
+    }
+  ];
+
+
 
   var _router = router();
   for (var i in [1, 2]) {
     _router.add('/mongo$i', ['GET'], getObject(i));
   }
+  var i = 0;
+  for (var c in calc) {
+    i++;
+    _router.add('/calc$i', ['GET'], c['func']);
+  }
 
   var handler = const shelf.Pipeline()
-      //.addMiddleware(shelf.logRequests())
       .addHandler(_router.handler);
 
   io.serve(handler, 'localhost', port).then((server) {
