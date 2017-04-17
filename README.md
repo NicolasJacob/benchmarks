@@ -3,7 +3,10 @@
 A set of benchmark comparing dart/node performance
 
 ##Prerequisits
-dart installed, node/npm installed
+
+- dart installed 
+- node/npm installed
+- ab (sudo apt install apache2-utils)
 
 ##Installation
 
